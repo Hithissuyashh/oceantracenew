@@ -2,10 +2,10 @@
   "version": 1,
   "asset_id": "0a90124a-3e1e-4adb-acc0-92f388a9bca9",
   "project_id": "8bfb1e7b-0ee3-4088-9203-6afd9dcd486f",
-  "url": "/__l5e/assets-v1/0a90124a-3e1e-4adb-acc0-92f388a9bca9/oceantrace-logo.jpeg",
-  "r2_key": "a/v1/8bfb1e7b-0ee3-4088-9203-6afd9dcd486f/0a90124a-3e1e-4adb-acc0-92f388a9bca9/oceantrace-logo.jpeg",
-  "original_filename": "oceantrace-logo.jpeg",
-  "size": 115727,
-  "content_type": "image/jpeg",
+  "url": "/favicon.png",
+  "r2_key": "",
+  "original_filename": "favicon.png",
+  "size": 0,
+  "content_type": "image/png",
   "created_at": "2026-08-31T14:05:13Z"
 }
