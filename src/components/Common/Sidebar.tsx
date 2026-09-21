@@ -18,7 +18,6 @@ import {
   Waves,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
-import emblem from "@/assets/oceantrace-emblem.asset.json";
 
 const NAV: {
   group: string;
@@ -85,7 +84,7 @@ export function Sidebar({
       <div className="flex items-center gap-2.5 px-4 py-4">
         <span className="neu relative flex h-9 w-9 shrink-0 items-center justify-center rounded-full p-1">
           <img
-            src={emblem.url}
+            src="/hackappeal-logo.png"
             alt="OceanTrace emblem"
             className="h-full w-full object-contain"
           />
