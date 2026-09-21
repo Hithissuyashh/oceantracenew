@@ -13,7 +13,7 @@ import {
   Menu,
   X,
 } from "lucide-react";
-import emblem from "@/assets/oceantrace-emblem.asset.json";
+
 import { cn } from "@/lib/utils";
 
 const LiquidChrome = lazy(() => import("@/components/Landing/LiquidChrome"));
@@ -65,7 +65,11 @@ function Navbar() {
       >
         <Link to="/" className="flex items-center gap-2.5 pl-1">
           <span className="neu flex h-9 w-9 items-center justify-center rounded-full p-1">
-            <img src={emblem.url} alt="OceanTrace emblem" className="h-full w-full object-contain" />
+            <img
+  src="/hackappeal-logo.png"
+  alt="OceanTrace emblem"
+  className="h-full w-full object-contain"
+/>
           </span>
           <span className="font-display text-[13px] tracking-[0.28em] text-foreground">
             OCEANTRACE
